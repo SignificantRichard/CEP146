@@ -1,3 +1,7 @@
+PROMPT ENGINEERING LAB:  (SOLO + PAIR)
+Name: Wen Xin Gao   Partner: Aidan
+Section: NDD   Date: 10 Nov 2026   AI tool used: gemini
+
 # Section 1
 
 | bad | problem | good |
@@ -36,3 +40,14 @@ Explicitly specify the desired output format and structure (e.g., asking for a t
 * **Example addition to prompt:**
 
   *"Structure the response in two short paragraphs: Paragraph 1 should explain the core concept using a 1970s/1980s real-world analogy (like a bank safe deposit box), and Paragraph 2 should outline the single use case."*
+
+# Section 4
+
+C1: Start a small online business selling handmade cards
+
+1. List the most important things that I would need to start a small online business selling handmade cards
+1. for item 4 of the list I need a pros and cons list of each item
+1. Give me a list of what to do to set up an etsy store
+
+![stuff](./img/261110-114914.png)
+https://share.gemini.google/OIt2OsQlZdWH
